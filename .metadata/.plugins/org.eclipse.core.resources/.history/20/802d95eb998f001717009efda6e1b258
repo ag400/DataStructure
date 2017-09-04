@@ -1,0 +1,21 @@
+
+public class Totality {
+	
+	public static void main(String[] args) { // Create a main method
+		int[] a = {1,2,3,4,5}; // Declare and initialize parameters for the method
+                String stype = "all";
+		Totality t = new Totality(); // Create an object of the APT class
+                System.out.println(t.sum(a, stype)); // Run the method with parameters that you define
+        }
+	
+	public int sum(int[] a, String stype) {
+        // you add code here
+		int total=0;
+		for (int i=0; i<a.length; i++) {
+		if(stype == "all") {
+			total+=a[i];
+		}
+	}
+	return total;
+  }
+}
