@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\bitga\eclipse-workspace\autocompletef17-start"/>
+		<item value="C:\Users\bitga\classwork"/>
+		<item value="C:\Users\bitga\eclipse-workspace\classwork"/>
+		<item value="C:\Users\bitga\eclipse-workspace\markov-fall17"/>
+		<item value="C:\Users\bitga\molecularball"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
 	<section name="SaveAsDialogSettings">
 		<item value="700" key="DIALOG_WIDTH"/>
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-30|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
